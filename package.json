@@ -1,0 +1,8 @@
+{
+    "name": "com.ichomo.daynightrlsync",
+    "displayName": "Day Night RL Sync System",
+    "version": "1.0.0",
+    "unity": "2020.3",
+    "author": "David McKnight",
+    "description": "In game time and lighting reflect real world time and sun position"
+}
